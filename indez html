@@ -1,1 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Rapport sur le Café</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Rapport sur le Café</h1>
+    <p>Produit agricole et boisson mondiale</p>
+  </header>
+
+  <section class="presentation">
+    <h2>Présentation du produit</h2>
+    <p>Le café est une boisson obtenue à partir des graines torréfiées du caféier. Il est consommé dans le monde entier et représente une part essentielle de la culture alimentaire.</p>
+  </section>
+
+  <section class="importance">
+    <h2>Importance économique</h2>
+    <p>Le café est l’un des produits agricoles les plus échangés au niveau mondial. Il génère des milliards de dollars chaque année et fait vivre des millions de producteurs.</p>
+  </section>
+
+  <section class="impact">
+    <h2>Impact social</h2>
+    <p>Le café est au cœur de nombreuses traditions sociales et culturelles. Les cafés et salons de thé sont des lieux de rencontre et d’échanges.</p>
+  </section>
+
+  <section class="environnement">
+    <h2>Enjeux environnementaux</h2>
+    <p>La culture du café peut entraîner la déforestation et une forte consommation d’eau. Les initiatives de commerce équitable et de production durable cherchent à limiter ces impacts.</p>
+  </section>
+
+  <section class="futur">
+    <h2>Perspectives futures</h2>
+    <p>Avec le changement climatique, la culture du café doit s’adapter. Les innovations portent sur de nouvelles variétés résistantes et sur des pratiques agricoles durables.</p>
+  </section>
+
+  <footer>
+    <p>Rapport rédigé par René</p>
+  </footer>
+</body>
+</html>
 
